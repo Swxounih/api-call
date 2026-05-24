@@ -23,3 +23,13 @@ Route::patch('/students/{id}', [StudentController::class, 'patch']);
 Route::delete('/students', [StudentController::class, 'destroyAll']);
 // DELETE - delete one student by ID
 Route::delete('/students/{id}', [StudentController::class, 'destroy']);
+
+//I saw this in tiktok so I wanted to try it but since we have custom methods like patch and destroyAll.
+// it doesn't work with the resource route. 
+// Route::resource('students', StudentController::class);
+
+//so in order to use the resource route we can specify using "only" the methods we want to use and include the custom methods.
+// Route::resource('students', StudentController::class)->only([
+//     'index', 'show', 'store', 'update', 'destroy','patch','destroyAll',
+// ]);
+
