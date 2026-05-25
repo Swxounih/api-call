@@ -12,6 +12,16 @@ Welcome! Follow the steps below to get the project up and running on your local 
 
 ---
 
+Prerequisite
+Please Make sure you have this following
+- **PHP** (version 8.0 or above )
+- **Composer**
+- **Laravel**
+- **MySQL**
+- **Postman** (for API testing)
+
+---
+
 ##  Getting Started
 
 ### 1. Install Dependencies
