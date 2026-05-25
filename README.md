@@ -1,3 +1,11 @@
+# API-CALL
+
+## Author
+ARMEL MEINARD Y. CRUZ 
+III - BSIT - B
+
+---
+
 # Project Setup Guide
 
 Welcome! Follow the steps below to get the project up and running on your local machine after cloning.
