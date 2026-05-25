@@ -12,7 +12,7 @@ Welcome! Follow the steps below to get the project up and running on your local 
 
 ---
 
-Prerequisite
+Prerequisite!
 
 Please Make sure you have this following
 - **PHP** (version 8.0 or above )
